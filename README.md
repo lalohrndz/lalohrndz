@@ -3,10 +3,11 @@
 ## Hola! Hi!👋
 
 My name is José Eduardo Hernández Pastor, i'm from Mexico City and i'm a Front-End Developer and a OutSystems Developer.
-<a href="https://app.daily.dev/pepe"><img src="https://api.daily.dev/devcards/31a409d8110f41ad9b57e1f07c7dc4c9.png?r=l2l" width="400" alt="Eduardo Pastor's Dev Card"/></a>
 
 - Currently working for RadSoft Group
 - I have a [Blog](https://eduardopastor.tech/) in spanish about Code, Design and some resources that can help on the work as Front-End Developer.
+
+<a href="https://app.daily.dev/pepe"><img src="https://api.daily.dev/devcards/31a409d8110f41ad9b57e1f07c7dc4c9.png?r=l2l" width="200" alt="Eduardo Pastor's Dev Card"/></a>
 
 ## _Skills_
 
