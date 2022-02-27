@@ -52,6 +52,12 @@ My name is José Eduardo Hernández Pastor, i'm a front-end / full-stack develop
 
 ## ✌ Let's chat!
 <img src="https://cdn.jsdelivr.net/gh/lalohrndz/CDNAssets/GithubReadme/gmail.svg.png" width="20"/> edo.pstr@gmail.com\
+<img src="https://cdn.jsdelivr.net/gh/lalohrndz/CDNAssets/GithubReadme/twitter.png" width="20"/> [@EddPstr](https://twitter.com/EddPstr) \
 <img src="https://cdn.jsdelivr.net/gh/lalohrndz/CDNAssets/Personal/logo_recortado.png" width="40"/> www.eduardopastor.tech \
-<img src="https://cdn.jsdelivr.net/gh/lalohrndz/CDNAssets/GithubReadme/twitter.png" width="20"/> [@EddPstr](https://twitter.com/EddPstr)
+👀 Other links: [linktree](https://linktr.ee/EddPastor)
 
+## 📈 Some stats
+![Some stats](https://github-readme-stats.vercel.app/api?username=lalohrndz&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+<span align="right">
+![Some stats](https://github-readme-streak-stats.herokuapp.com/?user=lalohrndz&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+<span>
