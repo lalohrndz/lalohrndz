@@ -40,6 +40,8 @@ My name is José Eduardo Hernández Pastor, i'm a front-end / full-stack develop
 	<img alt="MaterializeCss" src="https://img.shields.io/badge/-Materialize%20CSS-f67?style=flat&logo=Material%20Design&logoColor=white"/>
 	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fd2?style=flat&logo=JavaScript&logoColor=black"/>
 	<img alt="Python" src="https://img.shields.io/badge/-Python-fd6?style=flat&logo=Python&logoColor=white&labelColor=58a"/>
+	<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-83ba00?style=flat&logo=Node.js&logoColor=white"/>
+	<img alt="Express" src="https://img.shields.io/badge/-Express-83ba00?style=flat&logo=Express&logoColor=white"/>
 	<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-f80?style=flat&logo=Prettier&logoColor=white"/>
 	<img alt="Better Comments" src="https://img.shields.io/badge/-Better%20Comments-f60?style=flat"/>
 	<img alt="HTML" src="https://img.shields.io/badge/-HTML%205-e52?style=flat&logo=HTML5&logoColor=white"/>
