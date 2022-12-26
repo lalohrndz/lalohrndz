@@ -4,8 +4,6 @@
 My name is José Eduardo Hernández Pastor, i'm a front-end / full-stack developer from Mexico City <img src="https://cdn.jsdelivr.net/gh/lalohrndz/CDNAssets/GithubReadme/Flag_of_Mexico.svg.png" width="20">
 
 🧑‍💻 Currently working as Power Platform Developer in EY.\
-✒ Checkout my [new blog!](https://eduardopastor.tech/blog) I post about code, design and other resources that can help on daily work as developer.
-</p>
 
 ## ☁ Cloud Skills
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-blue?style=for-the-badge&logo=Microsoft%20Azure"/>
