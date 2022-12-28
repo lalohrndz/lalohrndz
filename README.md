@@ -16,12 +16,6 @@ My name is José Eduardo Hernández Pastor, i'm a front-end / full-stack develop
 <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-fb0?style=flat&logo=Power%20BI&logoColor=white"/>
 </p>
 
-##
-<img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-white?style=for-the-badge&logo=googlecloud"/>
-<p>
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-fc3?style=flat&logo=firebase&logoColor=black"/>
-</p>
-
 ## 💻 My tools for coding
 <p>
 	<img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-369?style=flat&logo=PostgreSQL&logoColor=white"/>
